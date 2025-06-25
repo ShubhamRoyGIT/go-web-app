@@ -8,7 +8,7 @@ image:
   repository: dockworker98/go-web-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "15877988927"
+  tag: "15878019341"
 
 ingress:
   enabled: false
